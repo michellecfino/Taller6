@@ -25,7 +25,7 @@ public class PanelMapaAgregar extends JPanel implements MouseListener
     private int x;
 
     /**
-     * La coordenada Y del nuevo restaurante
+     * La coordenada Y del nuevo restaurante 
      */
     private int y;
 

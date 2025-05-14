@@ -37,6 +37,7 @@ public class VentanaAgregarRestaurante extends JFrame
 
         // Agrega el panel donde va a estar el mapa
         // TODO completar
+        panelMapa = new PanelMapaAgregar();
 
         // Agrega en el sur un panel para los detalles del restaurante y para los botones
         // TODO completar
